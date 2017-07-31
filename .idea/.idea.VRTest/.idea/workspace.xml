@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0b18d83-7368-4fe6-923d-f8b3233d823a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/SimpleScene.unity" afterPath="$PROJECT_DIR$/Assets/SimpleScene.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ScriptTest.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/ScriptTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding>
+                <marker date="1499846291608" expanded="false" signature="6:78" ph="..." />
+                <marker date="1499846291608" expanded="true" signature="120:241" ph="{...}" />
+                <marker date="1499846291608" expanded="true" signature="170:177" ph="{...}" />
+                <marker date="1499846291608" expanded="true" signature="232:239" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Unity3DRider.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1725">
+              <caret line="955" column="10" lean-forward="true" selection-start-line="955" selection-start-column="10" selection-end-line="955" selection-end-column="10" />
+              <folding>
+                <marker date="1499846226845" expanded="true" signature="0:51" ph="/* 1.9.1.0 ... */" />
+                <marker date="1499846226845" expanded="false" signature="58:452" ph="..." />
+                <marker date="1499846226845" expanded="true" signature="488:10439" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="550:10437" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="1442:2799" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="1675:1725" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="2128:2745" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="2177:2637" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="2266:2421" ph="/* RiderPlugin.Log(RiderPlugin.LoggingLevel.Info, &quot;mc[1]: &quot;+mc[1].Value); ... */" />
+                <marker date="1499846226845" expanded="true" signature="2650:2697" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="2867:3044" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="3108:3831" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="3961:4417" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="4544:6075" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="4589:6069" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="4711:4949" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="4732:4875" ph="/* Add AllowUnsafeBlocks to the .csproj. Unity doesn't generate it (although VSTU does). ... */" />
+                <marker date="1499846226845" expanded="true" signature="5004:6061" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="5025:5362" ph="/* defines could be ... */" />
+                <marker date="1499846226845" expanded="true" signature="5514:5967" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="5609:5955" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="6193:6615" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="6514:6609" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="6713:6860" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="6925:7010" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="7075:7160" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="7312:7928" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="7576:7922" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="7712:7830" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="7843:7914" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="8011:8716" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="8024:8251" ph="/* Add LangVersion to the .csproj. Unity doesn't generate it (although VSTU does). ... */" />
+                <marker date="1499846226845" expanded="true" signature="8476:8542" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="8553:8710" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="8762:9539" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="9648:10433" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="10044:10427" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="10475:41403" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="10532:41401" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="10679:10991" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="10822:10985" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="11038:13839" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="11280:13520" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="11349:11519" ph="/* &quot;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\JetBrains\*Rider*.lnk&quot; ... */" />
+                <marker date="1499846226845" expanded="true" signature="11551:11791" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="11961:12581" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="12244:12567" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="12277:12510" ph="/* RiderPlugin.Log(LoggingLevel.Verbose, &quot;Update {0} to {1} product version: {2}&quot;, alreadySetPath, newPath, FileV ... */" />
+                <marker date="1499846226845" expanded="true" signature="12659:12750" ph="/* &quot;/Applications/*Rider*.app&quot; ... */" />
+                <marker date="1499846226845" expanded="true" signature="13156:13480" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="13232:13466" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="13265:13406" ph="/* Log(LoggingLevel.Verbose, &quot;Update {0} to {1}&quot;, alreadySetPath, newPathMac); ... */" />
+                <marker date="1499846226845" expanded="true" signature="13612:13806" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="13888:14058" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="14088:14153" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="14210:14388" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="14437:14588" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="14622:14822" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="14638:14816" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="14848:15228" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="15063:15160" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="15179:15222" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="15271:15751" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="15854:16170" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="15907:16103" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="16227:16297" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="16359:16428" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="16481:16878" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="16884:17088" ph="/// Creates and deletes Library/EditorInstance.json containing version and process ID ... " />
+                <marker date="1499846226845" expanded="true" signature="17166:17898" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="17904:18067" ph="/// Asset Open Callback (from Unity) ... " />
+                <marker date="1499846226845" expanded="true" signature="18174:19663" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="18199:19636" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="18233:18521" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="18254:18419" ph="/* make sure the plugin was initialized first. ... */" />
+                <marker date="1499846226845" expanded="true" signature="19447:19607" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="19754:20902" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="19848:19961" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="20062:20876" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="20237:20846" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="20442:20682" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="20566:20670" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="20712:20836" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="21011:21594" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="21660:21857" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="21905:22943" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="21990:22028" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="22148:22425" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="22436:22668" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="22985:23940" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="23079:23934" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="23099:23804" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="23183:23794" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="23623:23782" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="23832:23926" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="23986:24432" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="24055:24402" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="24103:24251" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="24277:24321" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="24530:24691" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="24796:24830" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="24836:24910" ph="/// Force Unity To Write Project File ... " />
+                <marker date="1499846226845" expanded="true" signature="24949:25243" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="25249:25460" ph="/// JetBrains Rider Integration Preferences Item ... " />
+                <marker date="1499846226845" expanded="true" signature="25529:26986" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="25672:25722" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="26813:26936" ph="/* if (GUILayout.Button(&quot;reset RiderInitializedOnce = false&quot;)) ... */" />
+                <marker date="1499846226845" expanded="true" signature="26992:27985" ph="SystemInfoRiderPlugin" />
+                <marker date="1499846226845" expanded="true" signature="27060:27841" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="27130:27835" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="27150:27827" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="28017:29831" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="28031:28284" ph="/// Gets the ID of the process that owns the window. ... " />
+                <marker date="1499846226845" expanded="true" signature="28340:28484" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="28492:28618" ph="/// Lists the handles of all the top-level windows currently available in the system. ... " />
+                <marker date="1499846226845" expanded="true" signature="28678:28994" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="28779:28847" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="29076:29199" ph="[...]" />
+                <marker date="1499846226845" expanded="true" signature="29429:29552" ph="[...]" />
+                <marker date="1499846226845" expanded="true" signature="29627:29750" ph="[...]" />
+                <marker date="1499846226845" expanded="true" signature="29870:41397" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="29883:40857" ph="Signitures imported from http://pinvoke.net" />
+                <marker date="1499846226845" expanded="true" signature="30165:30624" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="30723:31205" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="31243:33117" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="31260:31908" ph="/// Do not display a dialog box if the link cannot be resolved. When SLR_NO_UI is set, ... " />
+                <marker date="1499846226845" expanded="true" signature="32032:32276" ph="///If the link object has changed, update its path and list of identifiers. ... " />
+                <marker date="1499846226845" expanded="true" signature="32602:32979" ph="///Disable distributed link tracking. By default, distributed link tracking tracks ... " />
+                <marker date="1499846226845" expanded="true" signature="33377:38847" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="38997:39184" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="39193:39310" ph="[...]" />
+                <marker date="1499846226845" expanded="true" signature="39357:40597" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="40711:40794" ph="[...]" />
+                <marker date="1499846226845" expanded="true" signature="40823:40839" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="40910:41391" ph="{...}" />
+                <marker date="1499846226845" expanded="true" signature="41026:41173" ph="/* TODO: if I can get hold of the hwnd call resolve first. This handles moved and renamed files. ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/ScriptTest.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VRTest (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp-Editor-firstpass" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugins" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Editor" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JetBrains" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VRTest (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp-Editor-firstpass" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VRTest (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VRTest (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="riderModule" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="riderModule" />
+      <method />
+    </configuration>
+    <configuration default="true" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="riderModule" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="riderModule" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Unity Debug.Attach to Unity Editor" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0b18d83-7368-4fe6-923d-f8b3233d823a" name="Default" comment="" />
+      <created>1499846179573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499846179573</updated>
+      <workItem from="1499846183989" duration="478000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="478000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="955" column="10" lean-forward="true" selection-start-line="955" selection-start-column="10" selection-end-line="955" selection-end-column="10" />
+          <folding>
+            <marker date="1499846226845" expanded="true" signature="0:51" ph="/* 1.9.1.0 ... */" />
+            <marker date="1499846226845" expanded="false" signature="58:452" ph="..." />
+            <marker date="1499846226845" expanded="true" signature="488:10439" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="550:10437" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="1442:2799" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="1675:1725" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="2128:2745" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="2177:2637" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="2266:2421" ph="/* RiderPlugin.Log(RiderPlugin.LoggingLevel.Info, &quot;mc[1]: &quot;+mc[1].Value); ... */" />
+            <marker date="1499846226845" expanded="true" signature="2650:2697" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="2867:3044" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="3108:3831" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="3961:4417" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="4544:6075" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="4589:6069" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="4711:4949" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="4732:4875" ph="/* Add AllowUnsafeBlocks to the .csproj. Unity doesn't generate it (although VSTU does). ... */" />
+            <marker date="1499846226845" expanded="true" signature="5004:6061" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="5025:5362" ph="/* defines could be ... */" />
+            <marker date="1499846226845" expanded="true" signature="5514:5967" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="5609:5955" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="6193:6615" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="6514:6609" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="6713:6860" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="6925:7010" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="7075:7160" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="7312:7928" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="7576:7922" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="7712:7830" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="7843:7914" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="8011:8716" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="8024:8251" ph="/* Add LangVersion to the .csproj. Unity doesn't generate it (although VSTU does). ... */" />
+            <marker date="1499846226845" expanded="true" signature="8476:8542" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="8553:8710" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="8762:9539" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="9648:10433" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="10044:10427" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="10475:41403" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="10532:41401" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="10679:10991" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="10822:10985" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="11038:13839" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="11280:13520" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="11349:11519" ph="/* &quot;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\JetBrains\*Rider*.lnk&quot; ... */" />
+            <marker date="1499846226845" expanded="true" signature="11551:11791" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="11961:12581" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="12244:12567" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="12277:12510" ph="/* RiderPlugin.Log(LoggingLevel.Verbose, &quot;Update {0} to {1} product version: {2}&quot;, alreadySetPath, newPath, FileV ... */" />
+            <marker date="1499846226845" expanded="true" signature="12659:12750" ph="/* &quot;/Applications/*Rider*.app&quot; ... */" />
+            <marker date="1499846226845" expanded="true" signature="13156:13480" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="13232:13466" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="13265:13406" ph="/* Log(LoggingLevel.Verbose, &quot;Update {0} to {1}&quot;, alreadySetPath, newPathMac); ... */" />
+            <marker date="1499846226845" expanded="true" signature="13612:13806" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="13888:14058" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="14088:14153" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="14210:14388" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="14437:14588" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="14622:14822" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="14638:14816" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="14848:15228" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="15063:15160" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="15179:15222" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="15271:15751" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="15854:16170" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="15907:16103" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="16227:16297" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="16359:16428" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="16481:16878" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="16884:17088" ph="/// Creates and deletes Library/EditorInstance.json containing version and process ID ... " />
+            <marker date="1499846226845" expanded="true" signature="17166:17898" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="17904:18067" ph="/// Asset Open Callback (from Unity) ... " />
+            <marker date="1499846226845" expanded="true" signature="18174:19663" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="18199:19636" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="18233:18521" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="18254:18419" ph="/* make sure the plugin was initialized first. ... */" />
+            <marker date="1499846226845" expanded="true" signature="19447:19607" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="19754:20902" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="19848:19961" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="20062:20876" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="20237:20846" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="20442:20682" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="20566:20670" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="20712:20836" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="21011:21594" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="21660:21857" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="21905:22943" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="21990:22028" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="22148:22425" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="22436:22668" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="22985:23940" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="23079:23934" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="23099:23804" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="23183:23794" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="23623:23782" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="23832:23926" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="23986:24432" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="24055:24402" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="24103:24251" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="24277:24321" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="24530:24691" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="24796:24830" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="24836:24910" ph="/// Force Unity To Write Project File ... " />
+            <marker date="1499846226845" expanded="true" signature="24949:25243" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="25249:25460" ph="/// JetBrains Rider Integration Preferences Item ... " />
+            <marker date="1499846226845" expanded="true" signature="25529:26986" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="25672:25722" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="26813:26936" ph="/* if (GUILayout.Button(&quot;reset RiderInitializedOnce = false&quot;)) ... */" />
+            <marker date="1499846226845" expanded="true" signature="26992:27985" ph="SystemInfoRiderPlugin" />
+            <marker date="1499846226845" expanded="true" signature="27060:27841" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="27130:27835" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="27150:27827" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="28017:29831" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="28031:28284" ph="/// Gets the ID of the process that owns the window. ... " />
+            <marker date="1499846226845" expanded="true" signature="28340:28484" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="28492:28618" ph="/// Lists the handles of all the top-level windows currently available in the system. ... " />
+            <marker date="1499846226845" expanded="true" signature="28678:28994" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="28779:28847" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="29076:29199" ph="[...]" />
+            <marker date="1499846226845" expanded="true" signature="29429:29552" ph="[...]" />
+            <marker date="1499846226845" expanded="true" signature="29627:29750" ph="[...]" />
+            <marker date="1499846226845" expanded="true" signature="29870:41397" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="29883:40857" ph="Signitures imported from http://pinvoke.net" />
+            <marker date="1499846226845" expanded="true" signature="30165:30624" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="30723:31205" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="31243:33117" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="31260:31908" ph="/// Do not display a dialog box if the link cannot be resolved. When SLR_NO_UI is set, ... " />
+            <marker date="1499846226845" expanded="true" signature="32032:32276" ph="///If the link object has changed, update its path and list of identifiers. ... " />
+            <marker date="1499846226845" expanded="true" signature="32602:32979" ph="///Disable distributed link tracking. By default, distributed link tracking tracks ... " />
+            <marker date="1499846226845" expanded="true" signature="33377:38847" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="38997:39184" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="39193:39310" ph="[...]" />
+            <marker date="1499846226845" expanded="true" signature="39357:40597" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="40711:40794" ph="[...]" />
+            <marker date="1499846226845" expanded="true" signature="40823:40839" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="40910:41391" ph="{...}" />
+            <marker date="1499846226845" expanded="true" signature="41026:41173" ph="/* TODO: if I can get hold of the hwnd call resolve first. This handles moved and renamed files. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ScriptTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <marker date="1499846291608" expanded="false" signature="6:78" ph="..." />
+            <marker date="1499846291608" expanded="true" signature="120:241" ph="{...}" />
+            <marker date="1499846291608" expanded="true" signature="170:177" ph="{...}" />
+            <marker date="1499846291608" expanded="true" signature="232:239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

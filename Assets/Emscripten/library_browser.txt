@@ -1,0 +1,79 @@
+ Browser.mainLoop.func = func;
+        Browser.vr_settings = {
+            presenting: false
+        };
+        Browser.mainLoop.arg = arg;
+
+        // create button
+        console.log("[emscripten_set_main_loop]: creating enter VR button");
+
+        var button = document.createElement("button");
+        button.innerHTML = "Enter VR";
+        var body = document.getElementsByTagName("body")[0];
+        body.appendChild(button);
+        button.addEventListener("click", function () {
+            console.log("[emscripten_set_main_loop]: ", "Entering VR mode...");
+
+            navigator.getVRDisplays().then(function (displays) {
+                // If a display is available, use it to present the scene
+                if (displays.length > 0) {
+                    vrDisplay = displays[0];
+                    console.log('Display found: ', vrDisplay);
+                    // Starting the presentation when the button is clicked: It can only be called in response to a user gesture
+                    button.addEventListener('click', function () {
+                        var canvas = document.getElementsByTagName("canvas")[0];
+
+                        console.log('canvas: ', canvas);
+
+                        var frameData = new VRFrameData();
+
+                        function drawVRScene() {
+                            vrDisplay.requestAnimationFrame(drawVRScene);
+
+                            vrDisplay.getFrameData(frameData);
+
+                            // You can get the position, orientation, etc. of the display from the current frame's pose
+                            var curFramePose = frameData.pose;
+                            var curPos = curFramePose.position;
+                            var curOrient = curFramePose.orientation;
+
+                            Module['dynCall_v'](Browser.mainLoop.func);
+
+                            vrDisplay.submitFrame();
+                        }
+
+                        vrDisplay.requestPresent([{source: canvas}]).then(function () {
+                            console.log('Presenting to WebVR display');
+
+                            // Set the canvas size to the size of the vrDisplay viewport
+
+                            var leftEye = vrDisplay.getEyeParameters('left');
+                            var rightEye = vrDisplay.getEyeParameters('right');
+
+                            canvas.width = Math.max(leftEye.renderWidth, rightEye.renderWidth) * 2;
+                            canvas.height = Math.max(leftEye.renderHeight, rightEye.renderHeight);
+
+                            Browser.vr_settings.vrDisplay = vrDisplay;
+                            Browser.vr_settings.presenting = true;
+
+                            drawVRScene();
+                            // stop the normal presentation, and start the vr presentation
+                            // window.cancelAnimationFrame(normalSceneFrame);
+                        });
+                    });
+                }
+            })
+        });
+
+        var browserIterationFunc;
+        if (typeof arg !== 'undefined') {
+            browserIterationFunc = function () {
+                if (!Browser.vr_settings.presenting)
+                    Module['dynCall_vi'](func, arg);
+            };
+        } else {
+            browserIterationFunc = function () {
+                if (!Browser.vr_settings.presenting)
+                    Module['dynCall_v'](func);
+            };
+        }
